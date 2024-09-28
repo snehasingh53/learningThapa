@@ -1,0 +1,7 @@
+streams: objects that let u read from a source or write data to a destination in continuous fashion .
+there are 4 types of stream 
+streaming means listening to music or watching video in "real time"
+1. readable
+2. writeable
+3. duplex :used for both read and write opeartion
+4. transform : type of duplex stream where the output is computed based on input 
